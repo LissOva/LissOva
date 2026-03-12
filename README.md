@@ -1,41 +1,47 @@
 ### Android Developer | Kotlin | Jetpack Compose
 ---
 
-##Навыки
+## Skills
 
 **Mobile Development**
-- Языки: Kotlin, XML
-- Архитектура: MVP, MVVM
-- Библиотеки: Jetpack Compose, Room, Dagger Hilt, Coroutines
+- Languages: Kotlin, XML
+- Architecture: MVP, MVVM
+- Libraries: Jetpack Compose, Room, Dagger Hilt, Coroutines
 
-**Дополнительные технологии**
-- Языки: C++, C# (WPF, WinForms, Entity Framework), SQL
-- Инструменты: Git, Figma, UML, BPMN
-- Языки: Русский (носитель), Английский (B1–B2)
+**Additional Technologies**
+- Languages: C++, C# (WPF, WinForms, Entity Framework), SQL
+- Tools: Git, Figma, UML, BPMN
+- Spoken Languages: Russian (Native), English (B1–B2)
 
 **Soft Skills**
-- Многозадачность
-- Коммуникабельность
-- Работа в команде
+- Multitasking
+- Communication Skills
+- Teamwork
 
 ---
 
-## Проекты и опыт работы
+## Projects and Work Experience
 
-### Органайзер учёбы (Дипломный проект уровня колледжа, 2024)
-Мобильное приложение для ведения заметок и отслеживания учебных задач.
+### Study Organizer (College Diploma Project, 2024)
+Mobile application for taking notes and tracking study tasks. [Read more...](https://github.com/LissOva/Study_Organaizer)
 
-**Стек:** Kotlin, Jetpack Compose, Room, MVVM  
-**Функционал:**
-- Создание и категоризация заметок по предметам
-- Составление ToDo списка 
-- Локальное хранение данных через Room
+**Stack:** Kotlin, Jetpack Compose, Room, MVVM  
+**Features:**
+- Creating and categorizing notes by subject
+- Creating ToDo lists
+- Local data storage via Room
 
-### Атом ( 2024–2026)
-Работа в проекте по разработке российского электромобиля Атом.
+### Atom (2024–2026)
+Working on the development project of the Russian electric vehicle Atom.
 
-**Роль:** Junior Solution Architect  
-**Задачи:**
-- Декомпозиция бизнес-требований
-- Разработка ТЗ с использованием UML, BPMN  на русском и английском языках
-- Взаимодействие с командой разработки
+**Role:** Junior Solution Architect  
+**Responsibilities:**
+- Decomposition of business requirements
+- Developing Technical Specifications using UML, BPMN in Russian and English
+- Collaboration with the development team
+
+## Achievements
+
+**WorldSkills Russia 2021–2022**  
+Regional Championship, Competency: "Development of solutions using blockchain technologies"  
+1st place in the team category
