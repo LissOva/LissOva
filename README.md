@@ -1,16 +1,40 @@
-## Hi there 👋
+### Android Developer | Kotlin | Jetpack Compose
+---
 
-<!--
-**LissOva/LissOva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Обо мне
+Занимаюсь разработкой мобильных приложения на Kotlin. Интересуюсь интеграцией AI-инструментов в разработку.
+Имею опыт участия в хакатонах и чемпионате WorldSkills.
 
-Here are some ideas to get you started:
+## Технические навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile Development**
+- Языки: Kotlin, XML
+- Архитектура: MVP, MVVM
+- Библиотеки: Jetpack Compose, Room, Dagger Hilt, Coroutines
+
+**Дополнительные технологии**
+- Языки: C++, C# (WPF, WinForms, Entity Framework), SQL
+- Инструменты: Git, Figma, UML, BPMN
+- Языки: Русский (носитель), Английский (B1–B2)
+
+---
+
+## 🚀 Проекты
+
+### Органайзер учёбы (Дипломный проект уровня колледжа, 2024)
+Мобильное приложение для ведения заметок и отслеживания учебных задач.
+
+**Стек:** Kotlin, Jetpack Compose, Room, MVVM  
+**Функционал:**
+- Создание и категоризация заметок по предметам
+- Составление ToDo списка 
+- Локальное хранение данных через Room
+
+### Атом ( 2024–2026)
+Работа в проекте по разработке электромобиля Атом.
+
+**Роль:** Junior Solution Architect  
+**Задачи:**
+- Декомпозиция бизнес-требований
+- Разработка ТЗ с использованием UML, BPMN  на русском и английском языках
+- Взаимодействие с командой разработки
