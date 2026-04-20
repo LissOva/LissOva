@@ -28,8 +28,8 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 - **Modeling & Design:** UML, BPMN
 
 ### 🌍 Languages
-- 🇷🇺 Russian (Native)
-- 🇬🇧 English (B1–B2)
+- Russian (Native)
+- English (B1–B2)
 
 ### 🤝 Soft Skills
 - Multitasking • Communication • Teamwork • Problem Solving
