@@ -1,47 +1,93 @@
-### Android Developer | Kotlin | Jetpack Compose
----
+# 👋 Hi, I'm Liza
 
-## Skills
-
-**Mobile Development**
-- Languages: Kotlin, XML
-- Architecture: MVP, MVVM
-- Libraries: Jetpack Compose, Room, Dagger Hilt, Coroutines
-
-**Additional Technologies**
-- Languages: C++, C# (WPF, WinForms, Entity Framework), SQL
-- Tools: Git, Figma, UML, BPMN
-- Spoken Languages: Russian (Native), English (B1–B2)
-
-**Soft Skills**
-- Multitasking
-- Communication Skills
-- Teamwork
+### 📱 Android Developer • Kotlin
 
 ---
 
-## Projects and Work Experience
+## 🧠 About Me
 
-### Study Organizer (College Diploma Project, 2024)
-Mobile application for taking notes and tracking study tasks. [Read more...](https://github.com/LissOva/Study_Organaizer)
+I'm a junior developer exploring different areas of IT and finding my path in tech. Currently focused on mobile development while staying open to new opportunities and learning experiences.
 
-**Stack:** Kotlin, Jetpack Compose, Room, MVVM  
-**Features:**
-- Creating and categorizing notes by subject
-- Creating ToDo lists
-- Local data storage via Room
+- 🎓 Currently studying at: **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
+- 🎓 Diploma project: **Study Organizer** — note-taking & task tracking app
+- 🏆 WorldSkills Russia 2021–2022: **1st place** (Blockchain Solutions)
+- 👯 Open to: collaboration, open-source contributions, and new challenges
 
-### Atom (2024–2026)
-Working on the development project of the Russian electric vehicle Atom.
+---
 
-**Role:** Junior Solution Architect  
-**Responsibilities:**
+## 🚀 Tech Stack
+
+### 📱 Mobile Development
+- **Languages:** Kotlin, XML
+- **Architecture:** MVVM, MVP
+- **Libraries:** Jetpack Compose, Room, Dagger Hilt, Coroutines, Flow
+
+### 💻 Additional Technologies
+- **Languages:** C++, C# (WPF, WinForms, Entity Framework), SQL
+- **Tools:** Git, Figma, Draw.io, UML, BPMN
+- **Modeling & Design:** UML, BPMN
+
+### 🌍 Languages
+- 🇷🇺 Russian (Native)
+- 🇬🇧 English (B1–B2)
+
+### 🤝 Soft Skills
+- Multitasking • Communication • Teamwork • Problem Solving
+
+---
+
+## 💼 Projects & Experience
+
+### ⚡ Atom | Junior Solution Architect | 2024–2026
+*Development project of the Russian electric vehicle Atom*
 - Decomposition of business requirements
-- Developing Technical Specifications using UML, BPMN in Russian and English
-- Collaboration with the development team
+- Developing Technical Specifications using UML/BPMN (RU/EN)
+- Collaboration with cross-functional development teams
 
-## Achievements
+### 📓 Study Organizer | College Diploma Project | 2024
+*Mobile application for notes & study task tracking*  
+[🔗 GitHub](https://github.com/LissOva/Study_Organaizer)
+- ✅ Creating and categorizing notes by subject
+- ✅ ToDo lists with reminders
+- ✅ Local data persistence with Room
+- **Stack:** Kotlin, Jetpack Compose, Room, MVVM
+---
 
-**WorldSkills Russia 2021–2022**  
-Regional Championship, Competency: "Development of solutions using blockchain technologies"  
-1st place in the team category
+## 🎓 Education
+
+### Peter the Great St.Petersburg Polytechnic University (SPbPU)
+**Applied Informatics** | Intelligent Information & Communication Technologies  
+📍 St. Petersburg, Russia  
+📅 2024–2029 (Expected graduation)
+
+### St. Petersburg College of Information Technologies (KIT)
+**Information Systems & Programming** | Programmer  
+📅 2021–2024
+
+---
+
+## 🏆 Achievements
+
+| Year | Competition | Category | Result |
+|------|-------------|----------|--------|
+| 2021–2022 | WorldSkills Russia | Blockchain Solutions | 🥇 1st Place (Team) |
+
+---
+
+## ⚡ Currently Focused On
+- 🧩 Deepening expertise in **Jetpack Compose** & modern Android architecture
+- 🎓 Balancing studies at **SPbPU** with hands-on development practice
+- 🌱 Exploring **KMP (Kotlin Multiplatform)** for cross-platform development
+
+---
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-LissOva-181717?style=flat&logo=github)](https://github.com/LissOva)
+[![Telegram](https://img.shields.io/badge/Telegram-@LissOva-2CA5E0?style=flat&logo=telegram)](https://t.me/Eliza_Kol)
+
+---
+
+*Last updated: April 2026* 
+
+---
