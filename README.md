@@ -24,8 +24,8 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 
 ### 💻 Additional Technologies
 - **Languages:** C++, C# (WPF, WinForms, Entity Framework), SQL
-- **Tools:** Git, Figma, Draw.io, UML, BPMN
-- **Modeling & Design:** UML, BPMN
+- **Tools:** Git, Figma, Draw.io
+- **Modeling & Design:** UML, BPMN, C4 
 
 ### 🌍 Languages
 - Russian (Native)
