@@ -58,7 +58,7 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 ### Peter the Great St.Petersburg Polytechnic University (SPbPU)
 **Applied Informatics** | Intelligent Information & Communication Technologies  
 📍 St. Petersburg, Russia  
-📅 2024–2029 (Expected graduation)
+📅 2024–2029
 
 ### St. Petersburg College of Information Technologies (KIT)
 **Information Systems & Programming** | Programmer  
