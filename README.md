@@ -74,13 +74,6 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 
 ---
 
-## ⚡ Currently Focused On
-- 🧩 Deepening expertise in **Jetpack Compose** & modern Android architecture
-- 🎓 Balancing studies at **SPbPU** with hands-on development practice
-- 🌱 Exploring **KMP (Kotlin Multiplatform)** for cross-platform development
-
----
-
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-LissOva-181717?style=flat&logo=github)](https://github.com/LissOva)
