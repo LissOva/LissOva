@@ -10,7 +10,6 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 
 - 🎓 Currently studying at: **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
 - 🎓 Diploma project: **Study Organizer** — note-taking & task tracking app
-- 🏆 WorldSkills Russia 2021–2022: **1st place** (Blockchain Solutions)
 - 👯 Open to: collaboration, open-source contributions, and new challenges
 
 ---
@@ -47,9 +46,9 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 ### 📓 Study Organizer | College Diploma Project | 2024
 *Mobile application for notes & study task tracking*  
 [🔗 GitHub](https://github.com/LissOva/Study_Organaizer)
-- ✅ Creating and categorizing notes by subject
-- ✅ ToDo lists with reminders
-- ✅ Local data persistence with Room
+- Creating and categorizing notes by subject
+- ToDo lists with reminders
+- Local data persistence with Room
 - **Stack:** Kotlin, Jetpack Compose, Room, MVVM
 ---
 
@@ -70,6 +69,7 @@ I'm a junior developer exploring different areas of IT and finding my path in te
 
 | Year | Competition | Category | Result |
 |------|-------------|----------|--------|
+| 2026 | Peter the Great Championship Case | TTS/STT technologies | 🥇 1st Place (Team) |
 | 2021–2022 | WorldSkills Russia | Blockchain Solutions | 🥇 1st Place (Team) |
 
 ---
