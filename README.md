@@ -95,5 +95,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-LissOva-181717?style=flat&logo=github)](https://github.com/LissOva)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Eliza_Kol-2CA5E0?style=flat&logo=telegram)](https://t.me/Eliza_Kol)
 
-*Последнее обновление: июнь 2026*
+#### *Последнее обновление: июнь 2026*
 ---
