@@ -15,7 +15,7 @@
 ---
 
 ## 👩‍💻 Проекты
-###📋 Органайзер учёбы
+### 📋 Органайзер учёбы
 
 [🔗 link](https://github.com/LissOva/Study_Organaizer)
 
@@ -25,7 +25,7 @@
 - Локальное хранение данных с использованием Room
 - **Стек:** Kotlin, Jetpack Compose, Room, MVVM
 
-###🐶 Факты о собаках
+### 🐶 Факты о собаках
 
 [🔗 link](https://github.com/LissOva/Dogs_and_facts)
 
