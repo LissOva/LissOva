@@ -1,86 +1,96 @@
-# 👋 Hi, I'm Liza
+# 👋 Привет, я Лиза
 
-### 📱 Android Developer • Kotlin
-
----
-
-## 🧠 About Me
-
-I'm a junior developer exploring different areas of IT and finding my path in tech. Currently focused on mobile development while staying open to new opportunities and learning experiences.
-
-- 🎓 Currently studying at: **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
-- 🎓 Diploma project: **Study Organizer** — note-taking & task tracking app
-- 👯 Open to: collaboration, open-source contributions, and new challenges
+### 📱 Android-разработчик • Kotlin • Analytics 
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Обо мне
 
-### 📱 Mobile Development
-- **Languages:** Kotlin, XML
-- **Architecture:** MVVM, MVP
-- **Libraries:** Jetpack Compose, Room, Dagger Hilt, Coroutines, Flow
+Я начинающий разработчик, изучаю разные направления в IT и ищу свой путь в мире ИТ. Сейчас фокусируюсь на мобильной разработке, но открыта к новым возможностям и профессиональному росту.
 
-### 💻 Additional Technologies
-- **Languages:** C++, C# (WPF, WinForms, Entity Framework), SQL
-- **Tools:** Git, Figma, Draw.io
-- **Modeling & Design:** UML, BPMN, C4 
-
-### 🌍 Languages
-- Russian (Native)
-- English (B1–B2)
-
-### 🤝 Soft Skills
-- Multitasking • Communication • Teamwork • Problem Solving
+- 🎓 Сейчас учусь в: **Санкт-Петербургский политехнический университет Петра Великого (СПбПУ)**
+- 🎓 Закончила колледж,дипломный проект: **Организер учёбы** — мобильное приложение для заметок и отслеживания задач
+- 👯 Открыта к: сотрудничеству, участию в open-source и новым вызовам
 
 ---
 
-## 💼 Projects & Experience
+## 👩‍💻 Проекты
+[📱 Организер учёбы](https://github.com/LissOva/Study_Organaizer)
+*Мобильное приложение для заметок и отслеживания учебных задач*  
+- Создание и категоризация заметок по предметам
+- Списки задач (ToDo) с напоминаниями
+- Локальное хранение данных с использованием Room
+- **Стек:** Kotlin, Jetpack Compose, Room, MVVM
+
+[📱 Факты о собаках](https://github.com/LissOva/Dogs_and_facts)
+*Мобильное приложение - справаочник пород собак и рандомные факты (получение из открытого API)*  
+- Просмотр пород
+- Выпад случайной породы
+- Выпад случайного факта
+- **Стек:** Kotlin, Jetpack Compose, MVVM, Coroutines, Retrofit
+
+---
+
+## 🚀 Технологический стек
+
+### 📱 Мобильная разработка
+- **Языки:** Kotlin, XML
+- **Архитектура:** MVVM, MVP
+- **Библиотеки:** Jetpack Compose, Room, Dagger Hilt, Coroutines, Flow
+
+### 💻 Так же обладаяю
+- **Языки:** C++, C# (WPF, WinForms, Entity Framework), SQL
+- **Инструменты:** Git, Figma, Draw.io
+- **Моделирование и дизайн:** UML, BPMN, C4
+
+### 🌍 Языки
+- Русский (родной)
+- Английский (B1–B2)
+
+### 🤝 Гибкие навыки
+- Многозадачность • Коммуникабельность • Работа в команде • Обучаемость
+---
+
+## 💼 Места работы
 
 ### ⚡ Atom | Junior Solution Architect | 2024–2026
-*Development project of the Russian electric vehicle Atom*
-- Decomposition of business requirements
-- Developing Technical Specifications using UML/BPMN (RU/EN)
-- Collaboration with cross-functional development teams
+*Проект разработки российского электромобиля «Атом»*
+- Декомпозиция бизнес-требований
+- Разработка технических спецификаций с использованием UML/BPMN (рус./англ.)
+- Взаимодействие с кросс-функциональными командами разработки
 
-### 📓 Study Organizer | College Diploma Project | 2024
-*Mobile application for notes & study task tracking*  
-[🔗 GitHub](https://github.com/LissOva/Study_Organaizer)
-- Creating and categorizing notes by subject
-- ToDo lists with reminders
-- Local data persistence with Room
-- **Stack:** Kotlin, Jetpack Compose, Room, MVVM
 ---
 
-## 🎓 Education
+## 🎓 Образование
 
-### Peter the Great St.Petersburg Polytechnic University (SPbPU)
-**Applied Informatics** | Intelligent Information & Communication Technologies  
-📍 St. Petersburg, Russia  
+### Санкт-Петербургский политехнический университет Петра Великого (СПбПУ)
+**Прикладная информатика** | Интеллектуальные инфокоммуникационные технологии  
+📍 Санкт-Петербург, Россия  
 📅 2024–2029
 
-### St. Petersburg College of Information Technologies (KIT)
-**Information Systems & Programming** | Programmer  
+### Санкт-Петербургский колледж информационных технологий (КИТ)
+**Информационные системы и программирование** | Программист  
 📅 2021–2024
 
 ---
 
-## 🏆 Achievements
+## 🏆 Соревнования
 
-| Year | Competition | Category | Result |
+| Год | Соревнование | Направление | Результат |
 |------|-------------|----------|--------|
-| 2026 | Peter the Great Championship Case | TTS/STT technologies | 🥇 1st Place (Team) |
-| 2021–2022 | WorldSkills Russia | Blockchain Solutions | 🥇 1st Place (Team) |
+| 2026 | VK Tech x ГК «ММЦ» Data Hack Day | AI Agent | Участие |
+| 2026 | Кейс-чемпионат Петра Великого | Технологии TTS/STT | 🥇 1 место (в команде) |
+| 2021–2022 | WorldSkills Russia | Решения на основе блокчейн-технологий | 🥇 1 место (в команде) |
 
 ---
 
-## 📫 Let's Connect
+## 📫 Связаться со мной
 
-[![GitHub](https://img.shields.io/badge/GitHub-LissOva-181717?style=flat&logo=github)](https://github.com/LissOva)
+[![GitHub](https://img.shields.io/badge/GitHub-LissOva-181717?style=flat&logo=github)](https://github.com/LissOva)  
 [![Telegram](https://img.shields.io/badge/Telegram-@LissOva-2CA5E0?style=flat&logo=telegram)](https://t.me/Eliza_Kol)
 
 ---
 
-*Last updated: April 2026* 
+*Последнее обновление: июнь 2026*
 
 ---
