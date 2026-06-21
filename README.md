@@ -44,7 +44,7 @@
 - **Архитектура:** MVVM, MVP
 - **Библиотеки:** Jetpack Compose, Room, Dagger Hilt, Coroutines, Flow
 
-### 💻 Так же обладаяю
+### 💻 Так же обладаю
 - **Языки:** C++, C# (WPF, WinForms, Entity Framework), SQL
 - **Инструменты:** Git, Figma, Draw.io
 - **Моделирование и дизайн:** UML, BPMN, C4
