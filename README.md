@@ -15,8 +15,9 @@
 ---
 
 ## 👩‍💻 Проекты
-###📱 Организер учёбы
-[![GitHub]](https://github.com/LissOva/Study_Organaizer)
+###📋 Органайзер учёбы
+
+[🔗 link](https://github.com/LissOva/Study_Organaizer)
 
 *Мобильное приложение для заметок и отслеживания учебных задач*  
 - Создание и категоризация заметок по предметам
@@ -24,7 +25,9 @@
 - Локальное хранение данных с использованием Room
 - **Стек:** Kotlin, Jetpack Compose, Room, MVVM
 
-[📱 Факты о собаках](https://github.com/LissOva/Dogs_and_facts)
+###🐶 Факты о собаках
+
+[🔗 link](https://github.com/LissOva/Dogs_and_facts)
 
 *Мобильное приложение - справаочник пород собак и рандомные факты (получение из открытого API)*  
 - Просмотр пород
